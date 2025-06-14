@@ -1,0 +1,834 @@
+[
+  {
+    "id": 1,
+    "source": "Whispers of Universe",
+    "verse": "1.1",
+    "whisper": "You’re not behind. You’re just blooming in your own divine season.",
+    "meaning": "Growth takes its own time. Trust your unique journey.",
+    "tags": [
+      "patience",
+      "growth",
+      "self-worth"
+    ]
+  },
+  {
+    "id": 2,
+    "source": "Whispers of Universe",
+    "verse": "1.2",
+    "whisper": "The silence you fear is where the Universe speaks the loudest.",
+    "meaning": "In stillness, you’ll hear your soul’s deepest truths.",
+    "tags": [
+      "silence",
+      "intuition",
+      "soul"
+    ]
+  },
+  {
+    "id": 3,
+    "source": "Whispers of Universe",
+    "verse": "1.3",
+    "whisper": "Even on the days you feel invisible, the stars still see you shining.",
+    "meaning": "Your worth exists even when it’s unnoticed.",
+    "tags": [
+      "self-love",
+      "invisibility",
+      "hope"
+    ]
+  },
+  {
+    "id": 4,
+    "source": "Whispers of Universe",
+    "verse": "1.4",
+    "whisper": "Not everything broken needs to be fixed; some cracks let the light in.",
+    "meaning": "Embrace imperfection—it’s where beauty lives.",
+    "tags": [
+      "imperfection",
+      "healing",
+      "light"
+    ]
+  },
+  {
+    "id": 5,
+    "source": "Whispers of Universe",
+    "verse": "1.5",
+    "whisper": "Your breath is a love letter from the Universe reminding you—you’re still needed.",
+    "meaning": "Your existence alone is a divine signal of purpose.",
+    "tags": [
+      "life",
+      "presence",
+      "gratitude"
+    ]
+  },
+  {
+    "id": 6,
+    "source": "Whispers of Universe",
+    "verse": "1.6",
+    "whisper": "Don’t rush the healing. The moon never apologizes for waning.",
+    "meaning": "Healing is a cycle. Let yourself ebb and flow.",
+    "tags": [
+      "healing",
+      "patience",
+      "moon"
+    ]
+  },
+  {
+    "id": 7,
+    "source": "Whispers of Universe",
+    "verse": "1.7",
+    "whisper": "When they don’t understand you, remember you were made to be felt, not explained.",
+    "meaning": "Your presence is meant to be experienced, not justified.",
+    "tags": [
+      "acceptance",
+      "authenticity",
+      "identity"
+    ]
+  },
+  {
+    "id": 8,
+    "source": "Whispers of Universe",
+    "verse": "1.8",
+    "whisper": "The Universe hides miracles inside every delay.",
+    "meaning": "Divine timing is disguised in every wait.",
+    "tags": [
+      "faith",
+      "miracles",
+      "timing"
+    ]
+  },
+  {
+    "id": 9,
+    "source": "Whispers of Universe",
+    "verse": "1.9",
+    "whisper": "Your soft heart is not a weakness. It’s your rarest power.",
+    "meaning": "Kindness is divine armor, not a flaw.",
+    "tags": [
+      "kindness",
+      "strength",
+      "emotion"
+    ]
+  },
+  {
+    "id": 10,
+    "source": "Whispers of Universe",
+    "verse": "1.10",
+    "whisper": "It’s okay to outgrow places, people, and even your past self.",
+    "meaning": "Growth sometimes requires letting go.",
+    "tags": [
+      "transformation",
+      "change",
+      "self-discovery"
+    ]
+  },
+  {
+    "id": 11,
+    "source": "Whispers of Universe",
+    "verse": "1.11",
+    "whisper": "Every time you feel like giving up, a star inside you flickers brighter.",
+    "meaning": "Even when you're low, you're still burning bright.",
+    "tags": [
+      "resilience",
+      "hope",
+      "light"
+    ]
+  },
+  {
+    "id": 12,
+    "source": "Whispers of Universe",
+    "verse": "1.12",
+    "whisper": "You’ve survived every storm so far. Trust your light.",
+    "meaning": "Your past proves your power.",
+    "tags": [
+      "strength",
+      "trust",
+      "journey"
+    ]
+  },
+  {
+    "id": 13,
+    "source": "Whispers of Universe",
+    "verse": "1.13",
+    "whisper": "You're not too much. You're just not meant to be contained.",
+    "meaning": "Be unapologetically yourself.",
+    "tags": [
+      "confidence",
+      "authenticity",
+      "freedom"
+    ]
+  },
+  {
+    "id": 14,
+    "source": "Whispers of Universe",
+    "verse": "1.14",
+    "whisper": "God didn’t place dreams in your heart to tease you—He placed them to lead you.",
+    "meaning": "Your dreams are blueprints from the divine.",
+    "tags": [
+      "faith",
+      "dreams",
+      "purpose"
+    ]
+  },
+  {
+    "id": 15,
+    "source": "Whispers of Universe",
+    "verse": "1.15",
+    "whisper": "In the quiet corners of your doubt, your purpose is still whispering.",
+    "meaning": "Answers live in your quiet knowing.",
+    "tags": [
+      "purpose",
+      "soul",
+      "stillness"
+    ]
+  },
+  {
+    "id": 16,
+    "source": "Whispers of Universe",
+    "verse": "1.16",
+    "whisper": "Be proud of how gently you hold on—even when it hurts.",
+    "meaning": "Endurance is sacred strength.",
+    "tags": [
+      "gentleness",
+      "pain",
+      "bravery"
+    ]
+  },
+  {
+    "id": 17,
+    "source": "Whispers of Universe",
+    "verse": "1.17",
+    "whisper": "The Universe writes poetry with your scars.",
+    "meaning": "Your pain speaks in poetic ways.",
+    "tags": [
+      "healing",
+      "pain",
+      "poetry"
+    ]
+  },
+  {
+    "id": 18,
+    "source": "Whispers of Universe",
+    "verse": "1.18",
+    "whisper": "Some connections are felt in the soul before the eyes even meet.",
+    "meaning": "Spiritual bonds go beyond sight.",
+    "tags": [
+      "connection",
+      "soulmates",
+      "destiny"
+    ]
+  },
+  {
+    "id": 19,
+    "source": "Whispers of Universe",
+    "verse": "1.19",
+    "whisper": "If you can feel deeply, you can heal deeply.",
+    "meaning": "Feeling deeply is your healing gift.",
+    "tags": [
+      "depth",
+      "emotion",
+      "healing"
+    ]
+  },
+  {
+    "id": 20,
+    "source": "Whispers of Universe",
+    "verse": "1.20",
+    "whisper": "You are not unloved. You are just undiscovered by the ones who will truly see you.",
+    "meaning": "You're waiting to be discovered by love.",
+    "tags": [
+      "self-worth",
+      "love",
+      "recognition"
+    ]
+  },
+  {
+    "id": 21,
+    "source": "Whispers of Universe",
+    "verse": "1.21",
+    "whisper": "One day, your struggle will become someone else’s survival guide.",
+    "meaning": "Your story could save someone’s world.",
+    "tags": [
+      "growth",
+      "journey",
+      "mentorship"
+    ]
+  },
+  {
+    "id": 22,
+    "source": "Whispers of Universe",
+    "verse": "1.22",
+    "whisper": "You don’t owe your sparkle to anyone who dimmed your light.",
+    "meaning": "Dimmed light isn’t lost light.",
+    "tags": [
+      "boundaries",
+      "self-love",
+      "freedom"
+    ]
+  },
+  {
+    "id": 23,
+    "source": "Whispers of Universe",
+    "verse": "1.23",
+    "whisper": "You are the prayer your ancestors whispered into the wind.",
+    "meaning": "You are a living legacy.",
+    "tags": [
+      "ancestry",
+      "legacy",
+      "spirit"
+    ]
+  },
+  {
+    "id": 24,
+    "source": "Whispers of Universe",
+    "verse": "1.24",
+    "whisper": "Let the heaviness fall. You were born to rise light.",
+    "meaning": "Weightlessness is your truth.",
+    "tags": [
+      "lightness",
+      "freedom",
+      "letting go"
+    ]
+  },
+  {
+    "id": 25,
+    "source": "Whispers of Universe",
+    "verse": "1.25",
+    "whisper": "Growth isn’t loud—it’s silent, slow, and sacred.",
+    "meaning": "True growth whispers, it doesn't scream.",
+    "tags": [
+      "growth",
+      "seasons",
+      "sacred"
+    ]
+  },
+  {
+    "id": 26,
+    "source": "Whispers of Universe",
+    "verse": "1.26",
+    "whisper": "Healing looks like forgiving yourself again and again until it feels like home.",
+    "meaning": "Peace comes from repeated forgiveness.",
+    "tags": [
+      "forgiveness",
+      "self-love",
+      "peace"
+    ]
+  },
+  {
+    "id": 27,
+    "source": "Whispers of Universe",
+    "verse": "1.27",
+    "whisper": "Let go. What’s meant for you will find a divine way back.",
+    "meaning": "Release welcomes what’s meant for you.",
+    "tags": [
+      "letting go",
+      "faith",
+      "return"
+    ]
+  },
+  {
+    "id": 28,
+    "source": "Whispers of Universe",
+    "verse": "1.28",
+    "whisper": "Your softness won’t save the world—but it will remind it what love feels like.",
+    "meaning": "You restore love to this world.",
+    "tags": [
+      "softness",
+      "love",
+      "essence"
+    ]
+  },
+  {
+    "id": 29,
+    "source": "Whispers of Universe",
+    "verse": "1.29",
+    "whisper": "You’re allowed to pause. Even the sun sets to rise again.",
+    "meaning": "Pause. Renewal is holy.",
+    "tags": [
+      "rest",
+      "healing",
+      "cycle"
+    ]
+  },
+  {
+    "id": 30,
+    "source": "Whispers of Universe",
+    "verse": "1.30",
+    "whisper": "Stop trying to be perfect. You’re here to be real.",
+    "meaning": "Let rawness lead.",
+    "tags": [
+      "realness",
+      "authenticity",
+      "acceptance"
+    ]
+  },
+  {
+    "id": 31,
+    "source": "Whispers of Universe",
+    "verse": "1.31",
+    "whisper": "The Universe doesn’t forget a single act of bravery—especially your silent ones.",
+    "meaning": "Your quiet acts matter most.",
+    "tags": [
+      "bravery",
+      "unseen",
+      "trust"
+    ]
+  },
+  {
+    "id": 32,
+    "source": "Whispers of Universe",
+    "verse": "1.32",
+    "whisper": "You are not lost. You are just wandering through your becoming.",
+    "meaning": "Becoming takes wandering.",
+    "tags": [
+      "direction",
+      "becoming",
+      "purpose"
+    ]
+  },
+  {
+    "id": 33,
+    "source": "Whispers of Universe",
+    "verse": "1.33",
+    "whisper": "Some nights are meant to hold your tears, not your plans.",
+    "meaning": "Tears are sacred too.",
+    "tags": [
+      "grief",
+      "emotions",
+      "release"
+    ]
+  },
+  {
+    "id": 34,
+    "source": "Whispers of Universe",
+    "verse": "1.34",
+    "whisper": "Don’t shrink to fit into someone’s lesser vision of love.",
+    "meaning": "Outgrow what diminishes you.",
+    "tags": [
+      "worth",
+      "standards",
+      "value"
+    ]
+  },
+  {
+    "id": 35,
+    "source": "Whispers of Universe",
+    "verse": "1.35",
+    "whisper": "You are still worth loving—even on the days you don’t believe it.",
+    "meaning": "You're loved in your darkest hours.",
+    "tags": [
+      "self-love",
+      "affirmation",
+      "acceptance"
+    ]
+  },
+  {
+    "id": 36,
+    "source": "Whispers of Universe",
+    "verse": "1.36",
+    "whisper": "Even when you feel unworthy, the Universe calls you chosen.",
+    "meaning": "Divinity still chooses you.",
+    "tags": [
+      "divinity",
+      "identity",
+      "chosen"
+    ]
+  },
+  {
+    "id": 37,
+    "source": "Whispers of Universe",
+    "verse": "1.37",
+    "whisper": "When it feels heavy, rest. You were never meant to carry it all alone.",
+    "meaning": "Burden is not yours to carry forever.",
+    "tags": [
+      "support",
+      "burden",
+      "release"
+    ]
+  },
+  {
+    "id": 38,
+    "source": "Whispers of Universe",
+    "verse": "1.38",
+    "whisper": "You’re not late. Your timing is rooted in the stars.",
+    "meaning": "You move by celestial rhythm.",
+    "tags": [
+      "divine timing",
+      "trust",
+      "stars"
+    ]
+  },
+  {
+    "id": 39,
+    "source": "Whispers of Universe",
+    "verse": "1.39",
+    "whisper": "Sometimes, being strong means allowing yourself to break softly.",
+    "meaning": "Vulnerability is strength too.",
+    "tags": [
+      "strength",
+      "vulnerability",
+      "break"
+    ]
+  },
+  {
+    "id": 40,
+    "source": "Whispers of Universe",
+    "verse": "1.40",
+    "whisper": "You’ve already been through things that were meant to break you. Yet here you are.",
+    "meaning": "You glow through the wreckage.",
+    "tags": [
+      "resilience",
+      "overcoming",
+      "light"
+    ]
+  },
+  {
+    "id": 41,
+    "source": "Whispers of Universe",
+    "verse": "1.41",
+    "whisper": "The Universe loves your messy, uncertain, real self more than your perfect mask.",
+    "meaning": "Be raw, not robotic.",
+    "tags": [
+      "authenticity",
+      "imperfection",
+      "truth"
+    ]
+  },
+  {
+    "id": 42,
+    "source": "Whispers of Universe",
+    "verse": "1.42",
+    "whisper": "The world doesn’t need another perfect person. It needs your truth.",
+    "meaning": "Truth transforms.",
+    "tags": [
+      "truth",
+      "authenticity",
+      "impact"
+    ]
+  },
+  {
+    "id": 43,
+    "source": "Whispers of Universe",
+    "verse": "1.43",
+    "whisper": "When you stop chasing, you start receiving what’s truly yours.",
+    "meaning": "Your surrender opens divine doors.",
+    "tags": [
+      "receiving",
+      "alignment",
+      "surrender"
+    ]
+  },
+  {
+    "id": 44,
+    "source": "Whispers of Universe",
+    "verse": "1.44",
+    "whisper": "You carry the wisdom of your pain and the magic of your resilience.",
+    "meaning": "Resilience is holy magic.",
+    "tags": [
+      "resilience",
+      "magic",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 45,
+    "source": "Whispers of Universe",
+    "verse": "1.45",
+    "whisper": "Faith is not loud—it’s quietly choosing to believe again.",
+    "meaning": "Belief is silent trust.",
+    "tags": [
+      "faith",
+      "belief",
+      "quiet"
+    ]
+  },
+  {
+    "id": 46,
+    "source": "Whispers of Universe",
+    "verse": "1.46",
+    "whisper": "You are the light that makes others remember their own spark.",
+    "meaning": "You light others’ skies.",
+    "tags": [
+      "light",
+      "energy",
+      "reminder"
+    ]
+  },
+  {
+    "id": 47,
+    "source": "Whispers of Universe",
+    "verse": "1.47",
+    "whisper": "Your story is sacred—even the torn pages.",
+    "meaning": "Wounds write wisdom.",
+    "tags": [
+      "story",
+      "narrative",
+      "healing"
+    ]
+  },
+  {
+    "id": 48,
+    "source": "Whispers of Universe",
+    "verse": "1.48",
+    "whisper": "Celebrate the small victories. They’re proof you’re still trying.",
+    "meaning": "Tiny wins hold big grace.",
+    "tags": [
+      "growth",
+      "effort",
+      "celebration"
+    ]
+  },
+  {
+    "id": 49,
+    "source": "Whispers of Universe",
+    "verse": "1.49",
+    "whisper": "You’re not meant to be understood by everyone—only felt by the right ones.",
+    "meaning": "Some souls are sacred listeners.",
+    "tags": [
+      "acceptance",
+      "belonging",
+      "depth"
+    ]
+  },
+  {
+    "id": 50,
+    "source": "Whispers of Universe",
+    "verse": "1.50",
+    "whisper": "You’re not here just to survive—you’re here to bloom wildly.",
+    "meaning": "You were made for wild beauty.",
+    "tags": [
+      "bloom",
+      "life",
+      "abundance"
+    ]
+  },
+{
+    "id": 51,
+    "source": "Bhagavad Gita 2.20",
+    "verse": "न जायते म्रियते वा कदाचिन् नायं भूत्वा भविता वा न भूयः",
+    "whisper": "The soul is eternal—it is never born and never dies.",
+    "meaning": "आत्मा न कभी जन्म लेती है, न कभी मरती है। यह शाश्वत है।",
+    "tags": [
+      "soul",
+      "eternity",
+      "bhagavad gita"
+    ]
+  },
+  {
+    "id": 52,
+    "source": "Isha Upanishad 1",
+    "verse": "ईशा वास्यमिदं सर्वं यत्किञ्च जगत्यां जगत्",
+    "whisper": "Everything in the universe is pervaded by the divine.",
+    "meaning": "इस जगत में जो कुछ भी है, वह ईश्वर से व्याप्त है।",
+    "tags": [
+      "divine",
+      "oneness",
+      "upanishads"
+    ]
+  },
+  {
+    "id": 53,
+    "source": "Rig Veda 10.90.1",
+    "verse": "सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्",
+    "whisper": "The Cosmic Being has a thousand heads, eyes, and feet—He pervades all.",
+    "meaning": "पुरुष सूक्त में वर्णित विराट पुरुष सबमें व्यापक हैं।",
+    "tags": [
+      "cosmic",
+      "universe",
+      "rig veda"
+    ]
+  },
+  {
+    "id": 54,
+    "source": "Bhagavad Gita 4.7",
+    "verse": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत",
+    "whisper": "Whenever righteousness declines, I manifest to restore balance.",
+    "meaning": "जब भी धर्म की हानि होती है, तब मैं स्वयं आता हूँ।",
+    "tags": [
+      "righteousness",
+      "avatar",
+      "bhagavad gita"
+    ]
+  },
+  {
+    "id": 55,
+    "source": "Chandogya Upanishad 6.8.7",
+    "verse": "तत्त्वमसि",
+    "whisper": "You are that supreme reality.",
+    "meaning": "तू वही परम सत्य है।",
+    "tags": [
+      "nonduality",
+      "truth",
+      "upanishads"
+    ]
+  },
+  {
+    "id": 56,
+    "source": "Bhagavad Gita 6.5",
+    "verse": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्",
+    "whisper": "Elevate yourself by your own mind, don’t degrade yourself.",
+    "meaning": "अपने द्वारा स्वयं को ऊपर उठाओ, स्वयं को नीचा मत गिराओ।",
+    "tags": [
+      "self-growth",
+      "mind",
+      "gita"
+    ]
+  },
+  {
+    "id": 57,
+    "source": "Kabir Doha",
+    "verse": "बुरा जो देखन मैं चला, बुरा न मिलिया कोय",
+    "whisper": "When I went looking for evil, I found none but myself.",
+    "meaning": "जब मैं बुराई ढूंढने निकला, तो सबसे बड़ी बुराई खुद में ही मिली।",
+    "tags": [
+      "introspection",
+      "kabir",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 58,
+    "source": "Atharva Veda",
+    "verse": "शं नो देवीरभिष्टय आपो भवन्तु पीत्वये",
+    "whisper": "May the waters bring us divine blessings and purity.",
+    "meaning": "जल हमें शुभता और पवित्रता प्रदान करें।",
+    "tags": [
+      "purity",
+      "nature",
+      "atharva veda"
+    ]
+  },
+  {
+    "id": 59,
+    "source": "Bhagavad Gita 18.66",
+    "verse": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज",
+    "whisper": "Abandon all duties and surrender unto me alone.",
+    "meaning": "सब धर्मों को छोड़कर मेरी शरण में आओ, मैं तुम्हें मुक्त करूँगा।",
+    "tags": [
+      "surrender",
+      "divine",
+      "bhakti"
+    ]
+  },
+  {
+    "id": 60,
+    "source": "Tulsidas",
+    "verse": "राम काजु कीन्हें बिनु, मोहि कहाँ विश्राम",
+    "whisper": "Until the task of Lord Ram is done, I cannot rest.",
+    "meaning": "रामजी का कार्य पूरा किए बिना मुझे विश्राम नहीं।",
+    "tags": [
+      "devotion",
+      "tulsidas",
+      "service"
+    ]
+  },
+  {
+    "id": 61,
+    "source": "Bhagavad Gita 2.47",
+    "verse": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन",
+    "whisper": "Your right is to perform your duty, but not to the fruits of your actions.",
+    "meaning": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फल में नहीं।",
+    "tags": [
+      "duty",
+      "karma",
+      "gita"
+    ]
+  },
+  {
+    "id": 62,
+    "source": "Upanishads",
+    "verse": "सर्वं खल्विदं ब्रह्म",
+    "whisper": "All this is indeed Brahman (the ultimate reality).",
+    "meaning": "सभी कुछ ही ब्रह्म है।",
+    "tags": [
+      "nonduality",
+      "brahman",
+      "upanishads"
+    ]
+  },
+  {
+    "id": 63,
+    "source": "Bhagavad Gita 9.22",
+    "verse": "योगक्षेमं वहाम्यहम्",
+    "whisper": "I carry what you lack and preserve what you have.",
+    "meaning": "मैं तुम्हारी कमी को पूरा करता हूँ और जो तुम्हारे पास है उसे सुरक्षित रखता हूँ।",
+    "tags": [
+      "provision",
+      "trust",
+      "gita"
+    ]
+  },
+  {
+    "id": 64,
+    "source": "Bhagavad Gita 4.13",
+    "verse": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः",
+    "whisper": "I created the four varnas (castes) based on their qualities and actions.",
+    "meaning": "मैंने चार वर्णों का निर्माण उनके गुणों और कर्मों के आधार पर किया।",
+    "tags": [
+      "varna system",
+      "society",
+      "gita"
+    ]
+  },
+   {
+    "id": 65,
+    "source": "Bhagavad Gita 2.47",
+    "verse": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+    "whisper": "बस कर्म करो, फल की चिंता भगवान पर छोड़ दो।",
+    "meaning": "तुम्हारा अधिकार केवल कर्म करने में है, फल में नहीं। इसे अपनाने से मन को शांति मिलती है।",
+    "tags": ["कर्म", "शांति", "आत्मिक", "गीता"]
+  },
+  {
+    "id": 66,
+    "source": "Mundaka Upanishad 3.2.9",
+    "verse": "सत्येन लभ्यस्तपसा ह्येष आत्मा।",
+    "whisper": "आत्मा को सत्य और तपस्या के मार्ग से पाया जा सकता है।",
+    "meaning": "सत्य और तप से आत्म-साक्षात्कार संभव होता है।",
+    "tags": ["उपनिषद", "सत्य", "आत्मा", "तपस्या"]
+  },
+  {
+    "id": 67,
+    "source": "Vishnu Purana",
+    "verse": "सर्वं खल्विदं ब्रह्म।",
+    "whisper": "यह सम्पूर्ण ब्रह्मांड ही ब्रह्म का स्वरूप है।",
+    "meaning": "हर एक चीज़ में ईश्वर का अंश है, यह जानना ही भक्ति का प्रारंभ है।",
+    "tags": ["पुराण", "ब्रह्म", "भक्ति", "ज्ञान"]
+  },
+  {
+    "id": 68,
+    "source": "Bhagavad Gita 6.5",
+    "verse": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+    "whisper": "खुद को खुद ही उठाओ, कभी अपने को गिरने मत दो।",
+    "meaning": "आत्मा ही आत्मा की मित्र है और आत्मा ही आत्मा की शत्रु। अपने ही प्रयास से उन्नति करो।",
+    "tags": ["प्रेरणा", "आत्म-बल", "गीता", "सशक्तिकरण"]
+  },
+  {
+    "id": 69,
+    "source": "Chandogya Upanishad",
+    "verse": "तत्त्वमसि।",
+    "whisper": "तू वही है – ब्रह्म से अलग नहीं।",
+    "meaning": "यह उपदेश आत्मा और परमात्मा की एकता को दर्शाता है।",
+    "tags": ["उपनिषद", "आत्मज्ञान", "अद्वैत", "वेदांत"]
+  },
+  {
+    "id": 70,
+    "source": "Narada Bhakti Sutra",
+    "verse": "सा त्वस्मिन परमप्रीत्या रूपा।",
+    "whisper": "भक्ति वो है जो परम प्रेम में रूपांतरित हो जाए।",
+    "meaning": "सच्ची भक्ति वह है जहाँ प्रेम का सर्वोच्च रूप प्रकट हो।",
+    "tags": ["भक्ति", "प्रेम", "साधना", "सूत्र"]
+  },
+  {
+    "id": 71,
+    "source": "Bhagavad Gita 9.22",
+    "verse": "योगक्षेमं वहाम्यहम्।",
+    "whisper": "मैं तुम्हारी जरूरतों को पूरा करूंगा।",
+    "meaning": "जो भी तुम्हें चाहिए, उसकी चिंता मत करो, मैं उसे प्रदान करूंगा।",
+    "tags": ["विश्वास", "प्रावधान", "गीता", "आध्यात्मिक"]
+  },
+    {
+        "id": 72,
+        "source": "Bhagavad Gita 18.66",
+        "verse": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "whisper": "सब धर्मों को छोड़कर मेरी शरण में आओ।",
+        "meaning": "सभी प्रकार की चिंताओं को छोड़कर केवल मुझ पर भरोसा करो।",
+        "tags": ["शरणागति", "भक्ति", "गीता", "आध्यात्मिक"]
+    }
+]
