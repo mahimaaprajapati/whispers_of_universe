@@ -132,9 +132,7 @@ if whisper:
 else:
     st.warning("No whispers found for this tag.")
 
-# 🌠 Whisper Again
-if st.button("🌠 Whisper Again"):
-    st.rerun()
+
 
 # 💖 View favorites
 if st.sidebar.button("💖 View Favorites"):
