@@ -50,4 +50,10 @@ else:
         st.markdown("---")
 
 # Optional: Add audio
-st.audio("assets/background.mp3", format="audio/mp3", start_time=0)
+st.markdown("""
+    <audio autoplay loop>
+        <source src="https://raw.githubusercontent.com/mahimaaprajapati/whispers_of_universe/main/assets/background.mp3
+" type="audio/mpeg">
+    </audio>
+""", unsafe_allow_html=True)
+
